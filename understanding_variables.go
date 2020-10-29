@@ -1,6 +1,10 @@
 package main
 import "fmt"
 
+// general syntax 👇🏽👇🏽👇🏽
+//  var <name> <type>
+//  var <name> <type> = <expression>
+
 func main() {
 	/* Go doesn't have char data type istead uses Byte and Rune */
 	var varByte byte = 'a' /* Byte represents ASCII value */
@@ -11,5 +15,9 @@ func main() {
 	/* %c of varRune is ❤ */
 	/* %U of varRune is U+1F39E */
 	/* Run and see differences */
+	
+	var hello_str string
+    	hello_str="Hello, World!"
+    	fmt.Println(hello_str)
 	
 }
