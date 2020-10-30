@@ -1,7 +1,7 @@
 package main
 import "fmt"
 func main() {
-    var a int=30  //declariing two integers
+    var a int=30  //declaring two integers
     var b int=10
     
     fmt.Println("Go Arithmetic Operators")
