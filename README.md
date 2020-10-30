@@ -1,4 +1,4 @@
-# GoTutorials
+# GoLang Tutorial
     This Is Where Anybody can Learn Go Basics!
 
     Lets Do it One By One !
@@ -35,3 +35,12 @@
     > \v        for vertical tab
     > \o        octal number of one to three digits
     > \xhh...   hexadecimal number of one or more digits
+
+# Decisions
+    > if statements
+    > if else statements
+    > Nested if statements
+    > Switch statements
+    > Select statements
+    
+    Follow a program in code section for more in details.
