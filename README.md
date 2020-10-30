@@ -1,7 +1,6 @@
 # GoLang Tutorial
-    This Is Where Anybody can Learn Go Basics!
-
-    Lets Do it One By One !
+This Is Where Anybody can Learn Go Basics!
+Lets Do it One By One !
 
 # Run Your Program
 use`go run hello_world.go`command to run a golang program.
