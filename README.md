@@ -23,6 +23,15 @@ There are many operators in go like in anyother language.
 # Escape Sequences
     Secial string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
     > \\        for \ character
-    >\'         for ' character
+    > \'         for ' character
     > \'        for ' character
     > \?        for ? character
+    > \a        alert or bell
+    > \b        for backspace
+    > \f        for form feed
+    > \n        for new line
+    > \r        for carriage return
+    > \t        for horizontal tab
+    > \v        for vertical tab
+    > \o        octal number of one to three digits
+    > \xhh...   hexadecimal number of one or more digits
