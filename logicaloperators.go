@@ -10,11 +10,14 @@ func main() {
     //syntax var <name> <type> = <expression>
     
     fmt.Println("W3Adda - Go Logical Operators")
-    result = (a > b) && (a > c)
+    result = (a > b) && (a > c) // && and
+    
     fmt.Printf("(a>b) && (a>c) : %t\n",result)
-    result = (a > b) || (a > c)
+    result = (a > b) || (a > c) // || or
+    
     fmt.Printf("(a>b) || (a>c) :%t\n",result)
-    result = !flag
+    result = !flag // ! not
+    
     fmt.Printf("!flag :%t\n",result)
      
 }
