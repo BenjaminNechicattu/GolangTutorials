@@ -5,7 +5,7 @@
 
 # Run Your Program
     use the following command to run a golang program.
-    'go run hello_world.go'
+    `go run hello_world.go`
 
 # Packages And  Declarations
     We have to declare packages that has to be executed alongside. Every Packages has a Path and A Name Assiciated with.
