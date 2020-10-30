@@ -11,12 +11,12 @@ We have to declare packages that has to be executed alongside. Every Packages ha
 # Operartors in Go
 There are many operators in go like in anyother language.
 
-## Arithmetic Operators
-## Assignment Operators
-## Comparison Operators
-## Logical Operators
-## Bitwise Operators
-## Other Operators
+    ## Arithmetic Operators
+    ## Assignment Operators
+    ## Comparison Operators
+    ## Logical Operators
+    ## Bitwise Operators
+    ## Other Operators
 Concatenation using + or += operators, & for address of, * for pointer to, <- for Receive operator.
 # Escape Sequences
 Special string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
