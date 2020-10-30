@@ -14,20 +14,9 @@ Packages are declared on top of the code.
 There are many operators in go like in anyother language.
 
 ## Arithmetic Operators
-  addition +
-  Subtraction -
-  Multiply *
-  Division /
-  Modulus %
 ## Assignment Operators
-  =     Assignment Oerators
-  +=    add and assign
-  -=    subtract and assign
-  *=*=    Multiply and assign
-  /=    divide and assign
-  %=
-  <<=
-  >>=
-  &=
-  ^=
-  |=
+## Comparison Operators
+## Logical Operators
+## Bitwise Operators
+## Other Operators
+    Concatenation using + or += operators, & for address of, * for ointer to, <- for Receive operator.
