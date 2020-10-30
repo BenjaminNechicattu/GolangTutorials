@@ -20,3 +20,5 @@ There are many operators in go like in anyother language.
 ## Bitwise Operators
 ## Other Operators
     Concatenation using + or += operators, & for address of, * for ointer to, <- for Receive operator.
+# Escape Sequences
+    Secial string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
