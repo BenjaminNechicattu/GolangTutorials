@@ -7,11 +7,10 @@
 use`go run hello_world.go`command to run a golang program.
 
 # Packages And  Declarations
-    We have to declare packages that has to be executed alongside. Every Packages has a Path and A Name Assiciated with.
-    Packages are declared on top of the code.
+We have to declare packages that has to be executed alongside. Every Packages has a Path and A Name Assiciated with.Packages are declared on top of the code.
 
 # Operartors in Go
-    There are many operators in go like in anyother language.
+There are many operators in go like in anyother language.
 
 ## Arithmetic Operators
 ## Assignment Operators
@@ -19,9 +18,9 @@ use`go run hello_world.go`command to run a golang program.
 ## Logical Operators
 ## Bitwise Operators
 ## Other Operators
-    Concatenation using + or += operators, & for address of, * for pointer to, <- for Receive operator.
+Concatenation using + or += operators, & for address of, * for pointer to, <- for Receive operator.
 # Escape Sequences
-    Special string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
+Special string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
     > \\        for \ character
     > \'        for ' character
     > \'        for ' character
@@ -43,4 +42,4 @@ use`go run hello_world.go`command to run a golang program.
     > Switch statements
     > Select statements
     
-    Follow a program in code section for more in details.
+Follow a program in code section for more in details.
