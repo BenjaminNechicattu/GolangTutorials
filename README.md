@@ -19,11 +19,11 @@
 ## Logical Operators
 ## Bitwise Operators
 ## Other Operators
-    Concatenation using + or += operators, & for address of, * for ointer to, <- for Receive operator.
+    Concatenation using + or += operators, & for address of, * for pointer to, <- for Receive operator.
 # Escape Sequences
-    Secial string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
+    Special string comrise a backlash (\) followed by a letter or combination of digits for controlling output on monitor. For instance :  newline(\n), carriage returns(\r),tabs,(\t) and non printing characters in Screen.
     > \\        for \ character
-    > \'         for ' character
+    > \'        for ' character
     > \'        for ' character
     > \?        for ? character
     > \a        alert or bell
