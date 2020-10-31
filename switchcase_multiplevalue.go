@@ -3,7 +3,7 @@ import "fmt"
 func main() {
 
 	var dayOfWeek = 5
-	fmt.Println("W3Adda - Go switch with multiple case combnied.")
+	fmt.Println("Go switch with multiple case combnied.")
 	switch dayOfWeek {
 		case 1, 2, 3, 4, 5:
 			fmt.Println("It's a Weekday.")
