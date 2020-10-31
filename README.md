@@ -47,8 +47,8 @@ Follow a program in code section for more in details.
 # Loops
 Loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Go employs for loops and nested for loops for this purpose.
 `for initialization; condition; increment {
-	// loop body
-}`
+	>// loop body
+>}`
 
 ## Loop Control
 Controlling loops are empoyed using 
