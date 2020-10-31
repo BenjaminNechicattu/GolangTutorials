@@ -13,7 +13,7 @@ func main() {
          }
     */
     
-    fmt.Println("W3Adda - Go If...else Statement")
+    fmt.Println("Go If...else Statement")
 
     if (a > b) {
         fmt.Printf("a is greater than b")
