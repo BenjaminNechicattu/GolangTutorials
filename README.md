@@ -43,3 +43,13 @@ Special string comrise a backlash (\) followed by a letter or combination of dig
     > Select statements
     
 Follow a program in code section for more in details.
+
+# Loops
+Loop is a programming structure that repeats a sequence of instructions until a specific condition is met. Go employs for loops and nested for loops for this purpose.
+
+## Loop Control
+Controlling loops are empoyed using 
+   
+    >  break 
+    > continue
+    > goto statements
