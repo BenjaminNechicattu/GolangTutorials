@@ -50,6 +50,6 @@ Loop is a programming structure that repeats a sequence of instructions until a 
 ## Loop Control
 Controlling loops are empoyed using 
    
-    >  break 
+    > break 
     > continue
     > goto statements
