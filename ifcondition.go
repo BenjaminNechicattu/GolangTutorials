@@ -3,7 +3,7 @@ import "fmt"
 func main() {
     var x = 25
     
-    /*
+    /* syntax : 
     if(condation){  
     statement(s) to be executed when condition is true
     }
