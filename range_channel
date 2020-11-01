@@ -6,12 +6,12 @@ func main() {
 	fmt.Println("Go For Each with Channel")
 	ch := make(chan string)
 	go func() {
-		ch <- "W"
+		ch <- "B"
 		ch <- "3"
-		ch <- "A"
-		ch <- "D"
-		ch <- "D"
-		ch <- "A"
+		ch <- "N"
+		ch <- "G"
+		ch <- "0"
+		ch <- "8"
 		close(ch)
 	}()
 	for n := range ch {
