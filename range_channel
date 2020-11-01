@@ -1,0 +1,20 @@
+package main
+import "fmt"
+
+func main() {
+
+	fmt.Println("Go For Each with Channel")
+	ch := make(chan string)
+	go func() {
+		ch <- "W"
+		ch <- "3"
+		ch <- "A"
+		ch <- "D"
+		ch <- "D"
+		ch <- "A"
+		close(ch)
+	}()
+	for n := range ch {
+		fmt.Println(n)
+	}
+}
