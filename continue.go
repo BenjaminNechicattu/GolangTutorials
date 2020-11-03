@@ -20,9 +20,9 @@ func main() {
 	for ctr < 10 {
 		ctr++
 		if (ctr == 5) {
-            println("5 is skipped")
-            continue
-            println("This won't be printed too.")
+            		println("5 is skipped")
+            		continue
+            		println("This won't be printed.")
         }
         fmt.Printf("Number is %d\n", ctr)
 
