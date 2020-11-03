@@ -68,7 +68,7 @@ Type conversion is a way to convert a variable from one data type to another dat
 
 syntax:
 
-`func function_name( [parameter list] ) [return_types]
-{
-   body of the function
-}`
+	func function_name( [parameter list] ) [return_types]
+	{
+	   body of the function
+	}
