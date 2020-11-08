@@ -96,6 +96,7 @@ Go supports anonymous functions, which can form closures. Anonymous functions ar
 
 # Pointers
 Every variable is a memory location and every memory location has its address defined which can be accessed using ampersand (&) operator, which denotes an address in memory.A pointer is a variable whose value is the address of another variable, i.e., direct address of the memory location. Like any variable or constant, you must declare a pointer before you can use it to store any variable address.
+
 	syntax :
 	`var var_name *var-type`
 
