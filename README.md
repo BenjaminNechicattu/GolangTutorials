@@ -117,3 +117,31 @@ To check for a nil pointer
 
 	if(ptr != nil)     /* succeeds if p is not nil */
 	if(ptr == nil)    /* succeeds if p is null */
+
+# Array Of Pointers
+?????????????????????????????????????????????????
+
+# Structures 
+
+Go arrays allow you to define variables that can hold several data items of the same kind. Structure is another user-defined data type available in Go programming, which allows you to combine data items of different kinds.
+
+Structures are used to represent a record
+
+syntax : 
+
+definition :
+
+	type struct_variable_type struct {
+	   member definition;
+	   member definition;
+	   ...
+	   member definition;
+	}
+
+declaration of stucture variables :
+
+	variable_name := structure_variable_type {value1, value2...valuen}
+	
+	
+e.g. : `structures.go`
+
