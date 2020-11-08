@@ -148,3 +148,18 @@ e.g. : `structures.go`
 # Structures as Function Arguments
 
 You can pass a structure as a function argument in very similar way as you pass any other variable or pointer. e.g. : `structures_as_function_arguments.go`
+
+# Pointers to Structures
+
+You can define pointers to structures in the same way as you define pointer to any other variable 
+`var struct_pointer *Books`
+
+Now, you can store the address of a structure variable in the above defined pointer variable. To find the address of a structure variable, place the & operator before the structure's name
+`struct_pointer = &Book1;`
+
+To access the members of a structure using a pointer to that structure, you must use the "." operator
+`struct_pointer.title;`
+
+e.g. : `pointers_to_structures.go`
+
+
