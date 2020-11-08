@@ -90,3 +90,6 @@ The function that called with the varying number of arguments is known as variad
 # Recursion
 Recursion is the process of repeating items in a self-similar way. The same concept applies in programming languages as well. If a program allows to call a function inside the same function, then it is called a recursive function call.
 `recursion.go`
+
+# Closure
+Go supports anonymous functions, which can form closures. Anonymous functions are useful when you want to define a function inline without having to name it.
