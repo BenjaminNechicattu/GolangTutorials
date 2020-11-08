@@ -83,3 +83,7 @@ A function definition in Go programming language consists of a function header a
 **Return Type** − A function may return a list of values. The return_types is the list of data types of the values the function returns. Some functions perform the desired operations without returning a value. In this case, the return_type is the not required.
 
 **Function Body** − It contains a collection of statements that define what the function does.
+
+# Variadic Functions
+The function that called with the varying number of arguments is known as variadic function. Or in other words, a user is allowed to pass zero or more arguments in the variadic function. _fmt.Printf_ is the example of the variadic function, it required one fixed argument at the starting after that it can accept any number of arguments.
+
