@@ -110,3 +110,10 @@ Go compiler assign a Nil value to a pointer variable in case you do not have exa
 
 The nil pointer is a constant with a value of zero defined in several standard libraries.
 e.g. : `nil_pointer.go`
+
+On most of the operating systems, programs are not permitted to access memory at address 0 because that memory is reserved by the operating system. However, the memory address 0 has special significance; it signals that the pointer is not intended to point to an accessible memory location. But by convention, if a pointer contains the nil (zero) value, it is assumed to point to nothing.
+
+To check for a nil pointer 
+
+	if(ptr != nil)     /* succeeds if p is not nil */
+	if(ptr == nil)    /* succeeds if p is null */
