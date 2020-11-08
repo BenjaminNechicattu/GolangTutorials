@@ -104,3 +104,9 @@ Every variable is a memory location and every memory location has its address de
 	var fp *float32    /* pointer to a float */
 	
 e.g : `pointers.go`
+
+# Nil Pointer
+Go compiler assign a Nil value to a pointer variable in case you do not have exact address to be assigned. This is done at the time of variable declaration. A pointer that is assigned nil is called a nil pointer.
+
+The nil pointer is a constant with a value of zero defined in several standard libraries.
+e.g. : `nil_pointer.go`
