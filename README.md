@@ -87,3 +87,5 @@ A function definition in Go programming language consists of a function header a
 # Variadic Functions
 The function that called with the varying number of arguments is known as variadic function. Or in other words, a user is allowed to pass zero or more arguments in the variadic function. _fmt.Printf_ is the example of the variadic function, it required one fixed argument at the starting after that it can accept any number of arguments.
 
+# Recursion
+Recursion is the process of repeating items in a self-similar way. The same concept applies in programming languages as well. If a program allows to call a function inside the same function, then it is called a recursive function call.
