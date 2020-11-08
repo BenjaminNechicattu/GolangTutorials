@@ -102,3 +102,5 @@ Every variable is a memory location and every memory location has its address de
 
 	var ip *int        /* pointer to an integer */
 	var fp *float32    /* pointer to a float */
+	
+e.g : `pointers.go`
