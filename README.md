@@ -181,12 +181,17 @@ e.g. : `array.go`
 
 ## Multi-Dimensional Arrays
 Go programming language allows multidimensional arrays.
+
 syntax :
+
 Delcaration :
 `var variable_name [SIZE1][SIZE2]...[SIZEN] variable_type`
+
 Initialisation : 
 `var threedim [5][10][4]int`
+
 for 2 dimensional array e.g. : `array_2_dimensional.go`
+
 ## Passing arrays to functions
 
 # 
