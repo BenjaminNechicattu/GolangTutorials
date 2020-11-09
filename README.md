@@ -179,8 +179,14 @@ initialization : `var balance = [5]float32{1000.0, 2.0, 3.4, 7.0, 50.0}`
 accesing array elements : `float32 salary = balance[9]`
 e.g. : `array.go`
 
-## Two-Dimensional Arrays
-
+## Multi-Dimensional Arrays
+Go programming language allows multidimensional arrays.
+syntax :
+Delcaration :
+`var variable_name [SIZE1][SIZE2]...[SIZEN] variable_type`
+Initialisation : 
+`var threedim [5][10][4]int`
+for 2 dimensional array e.g. : `array_2_dimensional.go`
 ## Passing arrays to functions
 
 # 
