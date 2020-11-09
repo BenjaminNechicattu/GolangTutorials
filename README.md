@@ -174,9 +174,13 @@ Instead of declaring individual variables, such as number0, number1, ..., and nu
 All arrays consist of contiguous memory locations. The lowest address corresponds to the first element and the highest address to the last element.
 
 syntax : 
+
 declaration :`var variable_name [SIZE] variable_type`
+
 initialization : `var balance = [5]float32{1000.0, 2.0, 3.4, 7.0, 50.0}`
+
 accesing array elements : `float32 salary = balance[9]`
+
 e.g. : `array.go`
 
 ## Multi-Dimensional Arrays
