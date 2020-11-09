@@ -162,4 +162,15 @@ To access the members of a structure using a pointer to that structure, you must
 
 e.g. : `pointers_to_structures.go`
 
+# Methods
+Go does not have classes. However, you can define methods on types.A method is a function with a special receiver argument.The receiver appears in its own argument list between the func keyword and the method name.
+
+# Interfaces
+Go programming provides another data type called interfaces which represents a set of method signatures. The struct data type implements these interfaces to have method definitions for the method signature of the interfaces.
+
+#  Arrays
+Go programming language provides a data structure called the array, which can store a fixed-size sequential collection of elements of the same type. An array is used to store a collection of data, but it is often more useful to think of an array as a collection of variables of the same type.
+Instead of declaring individual variables, such as number0, number1, ..., and number99, you declare one array variable such as numbers and use numbers[0], numbers[1], and ..., numbers[99] to represent individual variables. A specific element in an array is accessed by an index.
+All arrays consist of contiguous memory locations. The lowest address corresponds to the first element and the highest address to the last element.
+e.g. : `array.go`
 
